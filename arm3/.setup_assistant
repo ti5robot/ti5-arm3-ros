@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: ""
+    relative_path: /home/catkin_ws/ti_clam_3.urdf
+    xacro_args: "--inorder "
+  SRDF:
+    relative_path: config/ti_clam_3.srdf
+  CONFIG:
+    author_name: peter
+    author_email: gcbchina@gmail.com
+    generated_timestamp: 1640753356
